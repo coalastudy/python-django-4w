@@ -18,11 +18,11 @@
 
 float은 개체를 공중에 띄웁니다.
 
-![&#xD55C;&#xAE00;\(&#xC6CC;&#xB4DC;&#xD504;&#xB85C;&#xC138;&#xC11C;\)&#xC758; &#xBC30;&#xCE58; &#xBC29;&#xBC95;](../.gitbook/assets/image%20%28222%29.png)
+![&#xD55C;&#xAE00;\(&#xC6CC;&#xB4DC;&#xD504;&#xB85C;&#xC138;&#xC11C;\)&#xC758; &#xBC30;&#xCE58; &#xBC29;&#xBC95;](../.gitbook/assets/image-222.png)
 
 한글로 치면, 가장 왼쪽의 나비모양에 해당하겠네요.
 
-### 실습 <a id="practice-1"></a>
+### 실습  <a id="practice-1"></a>
 
 타이핑을 생략하시려면 여기서부터 시작하세요.
 
@@ -32,9 +32,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </body>
 ```
 
-![float: left;](../.gitbook/assets/image%20%28239%29.png)
+![float: left;](../.gitbook/assets/image-239.png)
 
-![float: right;](../.gitbook/assets/image%20%2871%29.png)
+![float: right;](../.gitbook/assets/image-71.png)
 
 left를 right으로도 바꿔보세요.
 
@@ -48,15 +48,15 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 float의 문제는 의도치 않은 겹침문제가 발생할 수 있다는 것 입니다.
 
-![&#xC8FC;&#xD669;&#xC0C9; &#xBC15;&#xC2A4;&#xC640; &#xBE68;&#xAC04;&#xC0C9; &#xBC15;&#xC2A4;&#xAC00; &#xACB9;&#xCE58;&#xACE0; &#xC788;&#xB2E4;.](../.gitbook/assets/image%20%28150%29.png)
+![&#xC8FC;&#xD669;&#xC0C9; &#xBC15;&#xC2A4;&#xC640; &#xBE68;&#xAC04;&#xC0C9; &#xBC15;&#xC2A4;&#xAC00; &#xACB9;&#xCE58;&#xACE0; &#xC788;&#xB2E4;.](../.gitbook/assets/image-150.png)
 
 빨간색 박스는 **float:right;** 을 통해 오른쪽에 띄운 상태입니다. 그런데 주황색 박스와 겹치고 있네요. 주황색 박스를 겹치지 않게 내리고 싶으면 어떻게 해야 할까요?
 
-### 실습 <a id="practice-2"></a>
+### 실습  <a id="practice-2"></a>
 
 이럴 때 clear를 사용합니다. 주황색 박스에 **clear:both;** 속성을 넣어보세요.
 
-![clear:both](../.gitbook/assets/image%20%28144%29.png)
+![clear:both](../.gitbook/assets/image-144.png)
 
 ```markup
 <div style="width: 150px; height: 100px; float: right; background-color: yellow;">img here</div>
@@ -81,7 +81,7 @@ float의 문제는 의도치 않은 겹침문제가 발생할 수 있다는 것 
 
 position을 사용해본적이 없다면 이 설명만으로는 이해하기 어렵습니다. 지금부터 자세히 설명해드리겠습니다.
 
-### 실습 - absolute <a id="practice-3"></a>
+### 실습 - absolute  <a id="practice-3"></a>
 
 타이핑을 생략하시려면 여기서부터 시작하세요.
 
@@ -95,7 +95,7 @@ position을 사용해본적이 없다면 이 설명만으로는 이해하기 어
 
 개체를 서로 겹치게 하려면 지금까지 배운 방법으로는 float을 사용해야합니다. 그러나 float은 공중에 띄울뿐 위치에 대한 미세한 컨트롤은 어렵죠. 이럴 때는 **position:absolute;**을 이용해 개체의 절대 좌표를 지정할 수 있습니다.
 
-![&#xC8FC;&#xD669;&#xC0C9; &#xBC15;&#xC2A4;&#xB294; position:absolute;&#xC774; &#xC9C0;&#xC815;&#xB41C; &#xC0C1;&#xD0DC;](../.gitbook/assets/image%20%28104%29.png)
+![&#xC8FC;&#xD669;&#xC0C9; &#xBC15;&#xC2A4;&#xB294; position:absolute;&#xC774; &#xC9C0;&#xC815;&#xB41C; &#xC0C1;&#xD0DC;](../.gitbook/assets/image-104.png)
 
 ```markup
 <br><br><br>

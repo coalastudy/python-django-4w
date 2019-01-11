@@ -4,9 +4,9 @@
 
 ### 다음과 똑같은 페이지를 만들어보세요.
 
-![&#xCD5C;&#xB300;&#xD55C; &#xBE44;&#xC2B7;&#xD558;&#xAC8C; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC138;&#xC694;.](../../.gitbook/assets/image%20%28202%29.png)
+![&#xCD5C;&#xB300;&#xD55C; &#xBE44;&#xC2B7;&#xD558;&#xAC8C; &#xB9CC;&#xB4E4;&#xC5B4;&#xBCF4;&#xC138;&#xC694;.](../../.gitbook/assets/image-202.png)
 
-##  이미지 주소
+## 이미지 주소
 
 ![https://www.travel.taipei/image/67780/1024x768](https://www.travel.taipei/image/67780/1024x768)
 

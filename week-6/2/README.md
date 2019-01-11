@@ -18,13 +18,11 @@
 
 ### 미션4\) Week 3 - 자율과제1 진행한 후 상단바, 탭바에 링크 걸기
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image-75.png)
 
 ### 미션5\) warn.html, help.html의 디자인을 페이스북형태로 변경
 
 ### 미션6\) 페이스북의 색감을 초록색 계통으로 바꿔보기
 
-![](../../.gitbook/assets/image%20%28292%29.png)
-
-
+![](../../.gitbook/assets/image-292.png)
 
