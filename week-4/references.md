@@ -1,5 +1,7 @@
 # 추천자료
 
+추천자료는 지난주와 동일합니다.
+
 |  | **제목** | **주소** | **특징** |
 | :--- | :--- | :--- | :--- |
 | **1** | 장고걸스 - Django 모델 | [https://tutorial.djangogirls.org/ko/django\_models/](https://tutorial.djangogirls.org/ko/django_models/) |  |

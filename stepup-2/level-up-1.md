@@ -46,12 +46,12 @@
       <th style="text-align:left">3</th>
       <th style="text-align:left">
         <ol>
-          <li>깃&소스트리 사용법</li>
+          <li>&#xAE43;&amp;&#xC18C;&#xC2A4;&#xD2B8;&#xB9AC; &#xC0AC;&#xC6A9;&#xBC95;</li>
         </ol>
       </th>
       <th style="text-align:left"><a href="http://jy-doromi.tistory.com/34">http://jy-doromi.tistory.com/34</a>
       </th>
-      <th style="text-align:left">간단한 설명</th>
+      <th style="text-align:left">&#xAC04;&#xB2E8;&#xD55C; &#xC124;&#xBA85;</th>
     </tr>
   </thead>
   <tbody></tbody>
